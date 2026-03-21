@@ -1,6 +1,6 @@
 <div align="center">
+![logo](logo.svg)
 
-<img src="logo.svg" width="160" alt="Vibe Security Logo"/>
 
 # Awesome Vibe Security
 
@@ -9,7 +9,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0](https://img.shields.io/badge/License-CC0-blue.svg)](LICENSE)
-[![Vibe Security](https://github.com/vibsecurity/Awesome-Vibe-Security/blob/main/logo.svg)](https://vibsecurity.com)
 
 <br/>
 
