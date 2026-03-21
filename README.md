@@ -1,5 +1,5 @@
 <div align="center">
-![Vibe Security Logo](logo.svg)alt="Vibe Security Logo"/>
+![Vibe Security Logo](logo.png)
 
 
 # Awesome Vibe Security
