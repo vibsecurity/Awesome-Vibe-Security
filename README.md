@@ -9,7 +9,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0](https://img.shields.io/badge/License-CC0-blue.svg)](LICENSE)
-[![Vibe Security](https://img.shields.io/badge/Learn%20at-vibsecurity.com-red?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOSA1IDktNXYtNkwyIDExdjZ6Ii8+PC9zdmc+)](https://vibsecurity.com)
+[![Vibe Security](https://github.com/vibsecurity/Awesome-Vibe-Security/blob/main/logo.svg)](https://vibsecurity.com)
 
 <br/>
 
