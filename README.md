@@ -1,5 +1,5 @@
 <div align="center">
-![logo](logo.svg)
+<img src="https://raw.githubusercontent.com/vibsecurity/Awesome-Vibe-Security/main/logo.svg" width="160" alt="Vibe Security Logo"/>
 
 
 # Awesome Vibe Security
