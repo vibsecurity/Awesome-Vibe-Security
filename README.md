@@ -87,6 +87,7 @@
 - [CodeRabbit](https://coderabbit.ai/) — AI-powered code reviewer that flags security issues in every pull request.
 - [GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security) — Code scanning, secret scanning, and dependency review built into GitHub.
 - [Snyk](https://snyk.io/) — End-to-end developer security platform covering code, containers, and IaC.
+- [Sober Coding](https://github.com/voidborne-d/sober-coding) — Language-agnostic CLI that scans AI-generated code for 27 issue types across 7 dimensions including security (hardcoded secrets, SQL injection, path traversal, empty except/catch blocks) with fix suggestions and CI mode.
 
 ---
 
