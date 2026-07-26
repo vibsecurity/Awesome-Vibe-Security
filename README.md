@@ -74,6 +74,7 @@
 - [Nuclei](https://nuclei.projectdiscovery.io/) — Fast vulnerability scanner with a huge community template library.
 - [Burp Suite Community](https://portswigger.net/burp/communitydownload) — The pentester's essential proxy and scanner.
 - [Nikto](https://cirt.net/Nikto2) — Web server scanner for misconfigurations common in vibe-coded deployments.
+- [Check My Vibe](https://checkmyvibeapp.com/) — Free passive scanner for public deployment signals on vibe-coded web apps, paired with a 36-point manual security checklist.
 
 ### Dependency & Supply Chain
 
