@@ -71,6 +71,7 @@
 ### Dynamic Analysis & Vulnerability Scanning
 
 - [OWASP ZAP](https://www.zaproxy.org/) — Open-source web application scanner — essential for testing vibe-coded web apps.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon): Open source autonomous penetration testing platform, 50 specialist agents over MCP, reproducible proof of exploitation, self hosted.
 - [Nuclei](https://nuclei.projectdiscovery.io/) — Fast vulnerability scanner with a huge community template library.
 - [Burp Suite Community](https://portswigger.net/burp/communitydownload) — The pentester's essential proxy and scanner.
 - [Nikto](https://cirt.net/Nikto2) — Web server scanner for misconfigurations common in vibe-coded deployments.
