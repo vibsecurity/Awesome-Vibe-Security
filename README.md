@@ -85,6 +85,7 @@
 ### AI-Specific Code Security
 
 - [CodeRabbit](https://coderabbit.ai/) — AI-powered code reviewer that flags security issues in every pull request.
+- [HOL Guard](https://hol.org/guard) — Open-source policy checks and approval gates for supported AI coding-agent actions; not a post-deployment vulnerability scanner.
 - [GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security) — Code scanning, secret scanning, and dependency review built into GitHub.
 - [Snyk](https://snyk.io/) — End-to-end developer security platform covering code, containers, and IaC.
 
